@@ -26,7 +26,8 @@ The goal is to demonstrate how **Gen AI models can be combined with document ret
 - **Embeddings**: HuggingFace embeddings for semantic understanding.  
 - **RAG pipeline**: Combines retrieval with LLaMA 3.1 to generate contextual answers.  
 - **FastAPI backend**: Provides endpoints for querying the model programmatically.  
-- **Streamlit frontend**: User-friendly web interface for interacting with uploaded documents.  
+- **Streamlit frontend**: User-friendly web interface for interacting with uploaded documents.  <img width="1163" height="924" alt="Screenshot 2026-01-03 190020" src="https://github.com/user-attachments/assets/e5ffe5a2-ea35-4707-95e7-c37ce64bdc7b" />
+
 - **Windows + Linux compatible**: Full support for local deployment.  
 - **Safe FAISS loading**: Secure deserialization options.  
 
