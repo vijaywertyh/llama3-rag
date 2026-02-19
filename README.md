@@ -6,9 +6,9 @@
 
 ---
 
-## **Project Overview**
+## **Project Overview
 
-This project implements an **end-to-end Retrieval-Augmented Generation (RAG) system** using **LLaMA 3.1**, enabling AI-driven question answering from your own documents. Users can upload PDFs, which are converted into a **FAISS vector database**, and queried via a **FastAPI backend**. The system supports a **Streamlit frontend** for interactive use.  
+This project implements an end-to-end Retrieval-Augmented Generation (RAG) system** using LLaMA 3.1, enabling AI-driven question answering from your own documents. Users can upload PDFs, which are converted into a FAISS vector database, and queried via a **FastAPI backend. The system supports a Streamlit frontend for interactive use.  
 
 The goal is to demonstrate how **Gen AI models can be combined with document retrieval** for real-world applications like:
 
